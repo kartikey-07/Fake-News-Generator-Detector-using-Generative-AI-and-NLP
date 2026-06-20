@@ -216,10 +216,4 @@ Results + Post-Analysis Actions
 
 ---
 
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
 *SatyaX — Smart evidence. Transparent reasoning. Better decisions.*
